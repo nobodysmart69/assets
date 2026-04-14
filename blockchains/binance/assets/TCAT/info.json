@@ -1,0 +1,11 @@
+{
+    "name": "TetheCat",
+    "symbol": "TCAT",
+    "type": "BEP2",
+    "decimals": 18,
+    "description": "USDT (Tether) is a centralized stablecoin launched in 2014 that maintains a 1:1 peg with the U.S. dollar, designed to provide price stability in the volatile cryptocurrency market. It is the world's largest stablecoin by market capitalization, with over $150 billion in circulation as of late 2025, and serves as the primary medium of exchange and settlement layer for the global crypto ecosystem.",
+    "website": "https://tether.to",
+    "explorer": "https://bscscan.com/address/0x212501fc7fc20c428ae7e38f435837057f84ba7f",
+    "status": "active",
+    "id": "TCAT"
+}
