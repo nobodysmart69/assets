@@ -1,11 +1,11 @@
 {
-    "name": "TetheCat",
-    "symbol": "TCAT",
+    "name": "Tether USD Bridged ZED20",
+    "symbol": "USDT.z",
     "type": "BEP2",
     "decimals": 18,
-    "description": "USDT (Tether) is a centralized stablecoin launched in 2014 that maintains a 1:1 peg with the U.S. dollar, designed to provide price stability in the volatile cryptocurrency market. It is the world's largest stablecoin by market capitalization, with over $150 billion in circulation as of late 2025, and serves as the primary medium of exchange and settlement layer for the global crypto ecosystem.",
-    "website": "https://tether.to",
+    "description": "Tether ZED20(USDT.z), a state-of-the-art stablecoin closely tied to the US dollar, founded by individuals with 35 years of successful experience in economics and business, was launched in 2024 within the ZEDX neobanking blockchain network from BNB Smart Chain. Tether USD Bridged ZED20 ensures stability by leveraging reliable cryptocurrencies and fiat reserves. It leads the way in "Bridged Cross Border," merging traditional assets into digital realms for capital stability. ZEDX's dynamic neobanking network supports Tether ZED20(USDT.z), shielding investments from market swings with robust currency support. Maintaining stability involves a 1:1 link with fiat currency, meticulously managed to match circulating supply, guaranteeing redemption at face value. This mechanism undergoes continuous refinement for ongoing effectiveness",
+    "website": "https://zedscan.net/",
     "explorer": "https://bscscan.com/address/0x212501fc7fc20c428ae7e38f435837057f84ba7f",
     "status": "active",
-    "id": "TCAT"
+    "id": "USDT.z"
 }
